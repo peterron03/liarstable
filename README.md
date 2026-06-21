@@ -10,6 +10,9 @@ You're free to use it for your own projects, I don't really care all that much, 
 
 [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo) was used to extract the source code, which can be seen under the `src` folder.
 
+# Credits
+I've gotta give credits to [Huntsman35](https://x.com/Huntsman70) and [canenero3d](https://x.com/canenero3d) (neither of them are active on github, sorry) for their builds and everything else they contributed to the game. It was entirely coded by me, but without them building maps and making items for the shop, the game would've never existed.
+
 # Me
 - [Roblox](https://www.roblox.com/users/54040770/profile)
 - [X / Twitter](https://x.com/HttpPeter0)
