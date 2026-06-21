@@ -13,4 +13,4 @@ You're free to use it for your own projects, I don't really care all that much, 
 # Me
 - [Roblox](https://www.roblox.com/users/54040770/profile)
 - [X / Twitter](https://x.com/HttpPeter0)
-- thealmighty4head on Discord
+- [Discord](https://discord.gg/Mtf6247Ppu)
