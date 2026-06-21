@@ -7,3 +7,8 @@ You can download the [liarstable.rblx](https://github.com/peterron03/liarstable/
 You're free to use it for your own projects, I don't really care all that much, just don't claim it as your own.
 
 [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo) was used to extract the source code, which can be seen under the `src` folder.
+
+# Me
+- [Roblox](https://www.roblox.com/users/54040770/profile)
+- [X / Twitter](https://x.com/HttpPeter0)
+- thealmighty4head on Discord
